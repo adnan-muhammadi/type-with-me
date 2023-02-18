@@ -2,7 +2,7 @@
 
 Test your typing speed with this small react project
 
-![speed-typing game](https://user-images.githubusercontent.com/18181964/136147070-5b731103-b3a6-4a57-80be-fa899fbda4e1.PNG)
+![speed-typing game](https://github.com/adnan-muhammadi/type-with-me/blob/main/public/pic.png)
 
 ## how it works
 - Click start button
