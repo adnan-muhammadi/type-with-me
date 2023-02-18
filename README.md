@@ -38,6 +38,6 @@ $ yarn start # npm start
 ````
 
  
-Contact me <kdondidier@gmail.com>
+Contact me <https://linkedin.com/in/theadnan>
 
 Happy Coding!
